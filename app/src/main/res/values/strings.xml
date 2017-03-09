@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BookListing</string>
+    <string name="emptyScreen">Currently no book information.</string>
+    <string name="searchButton">Search</string>
+    <string name="searchHintString">Search String</string>
+</resources>

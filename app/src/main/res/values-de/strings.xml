@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bücher Suche</string>
+    <string name="emptyScreen">Momentan keine Buch information.</string>
+    <string name="searchButton">Suchen</string>
+    <string name="searchHintString">Suchen</string>
+</resources>
